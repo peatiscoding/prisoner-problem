@@ -26,6 +26,13 @@ Credit: https://www.youtube.com/watch?v=iSNsgj1OCLA
 
 the current code implements only the random approach. Feel free to submit PR for your own solution, or strategies!
 
+To do this extends `BasePrisoner` class implements
+
+1. implement (override) `abstract getNextBoxIndex` method that will return the next boxIndex to open. The class Experiement will automatically validate if such prisoner is in the clear or not.
+1. implement (override) `abstract setup` method if you need to setup anything before your prisoner will enter the room.
+
+have fun.
+
 ## To Run
 
 1. Pull Source Code
