@@ -40,3 +40,9 @@ have fun.
 1. run `yarn test`
 
 Once run it will print out the results of success cases and failure cases count per your given Prisoner strategy.
+
+## Result
+
+https://gist.github.com/peatiscoding/ca12bf626ff610ceb0e6769f4d1012c5
+
+by Kasidid
