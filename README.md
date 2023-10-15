@@ -45,4 +45,4 @@ Once run it will print out the results of success cases and failure cases count 
 
 https://gist.github.com/peatiscoding/ca12bf626ff610ceb0e6769f4d1012c5
 
-by Kasidid
+by Kasidid [@mrbboomm](https://github.com/mrbboomm)
